@@ -8,7 +8,7 @@
 * Positive Emotion
 * Relationships: **positive** relationships; stamp example; research says that doing a kind thing for another produces the single most reliable momentary increase in  well being of any exercise tested
 * Accomplishment
-* Engagement: "flow"; measured subjectively
+* Engagement: **"flow"**; measured subjectively
 * Meaning
 
 ## Strengths
