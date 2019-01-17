@@ -1,6 +1,6 @@
 # Lecture 2: 1/17/18
 ## Gratitude
-
+---
 ### Flourishing
 * happiness
 * flow
