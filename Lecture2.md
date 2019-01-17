@@ -38,6 +38,33 @@ True gratitude involves a humble dependence on others.. we acknowledge that othe
 * more alert, alive, and awake
 * More joy and pleasure
 * More optimism and happiness
-* Soul Pancake Gratitude
+* Soul Pancake Gratitude (candle and wax problem expirement)
+
+### Emmons: How Does Gratitude Work?
+1. **Gratitude allows us to celebrate the present.** it magnifies positive emotions.
+* Gratitude makes us appreciate the value of something, which makes us less likely to take
+it for granted
+* Gratitude allows us to be more active in life (as opposed to passive). Noticing and looking for what you're grateful for allows us to be more present.
+
+2. **Gratitude blocks toxic, negative emotions**, such as envy, resentment, regret--emotions
+that can destroy our happiness. Study by Alex Wood in 2008 in the Journal of Research Personality shows that gratitude can reduce frequency and duration of derpression.
+* You cannot feel envious and grateful at the same time.
+
+3. **Grateful people are more stress resistent**. Studies show that in the face of serious trauma, adversity, and suffering, people who have a grateful disposition recover more quickly.
+
+4. **Grateful people tend to have a higher sense of self-worth**.
+
+### How to Cultivate Gratitude?
+* Gratitude Journal
+  * Nightly or weekly
+  * Detail what you are grateful for
+  * Explain why you are grateful
+
+* Gratitude Letter (mini project)
+  * Think of someone who you are truly grateful for but to whom you have not expressed your thankfulness
+  * Write as if you were addressing this person directly
+  * Describe what the person did, why you are grateful and how their behaviors influenced your
+  * You could describe what you are doing now and how often you think about this Person
+  * Deliver the letter in person or send
 
 ###
