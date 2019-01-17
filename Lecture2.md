@@ -47,7 +47,7 @@ it for granted
 * Gratitude allows us to be more active in life (as opposed to passive). Noticing and looking for what you're grateful for allows us to be more present.
 
 2. **Gratitude blocks toxic, negative emotions**, such as envy, resentment, regret--emotions
-that can destroy our happiness. Study by Alex Wood in 2008 in the Journal of Research Personality shows that gratitude can reduce frequency and duration of derpression.
+that can destroy our happiness. Study by Alex Wood in 2008 in the Journal of Research Personality shows that gratitude can reduce frequency and duration of depression.
 * You cannot feel envious and grateful at the same time.
 
 3. **Grateful people are more stress resistent**. Studies show that in the face of serious trauma, adversity, and suffering, people who have a grateful disposition recover more quickly.
@@ -67,4 +67,16 @@ that can destroy our happiness. Study by Alex Wood in 2008 in the Journal of Res
   * You could describe what you are doing now and how often you think about this Person
   * Deliver the letter in person or send
 
-###
+* Savoring
+  * Savoring whatever makes you happy (enjoying the good life)
+
+### Fred Bryant: 10 Ways to develop Savoring
+1. Share your good feelings with others
+2. take a mental photograph
+3. Congratulate yourself
+4. Sharpen your sensory perceptions
+5. Shout it from the rooftops
+6. Compare the outcome to something worse
+7. Count your blessings and give thanks.
+8. Avoid killjoy thinking (i.e., positive thoughts just as important as avoiding negative ones)
+9. Remind yourself time flies...relish the moments
