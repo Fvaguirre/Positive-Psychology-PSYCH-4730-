@@ -25,20 +25,20 @@
 
 ### 3 Models in use by Many:
 1. **Gallup's Clifton StrengthsFinder**
-  * Studying what's right with people
-  * **Talents** naturally recurring patterns of thought, feeling or behavior that can be productively applied
+    * Studying what's right with people
+    * **Talents** naturally recurring patterns of thought, feeling or behavior that can be productively applied
 
-  * Strength = talent _ related knowledge + skills
-  * Strength = ability to provide consistent, near perfect performance
-  * 34 Talent Themes tested by this test
-  * Psychometrically sound (valid and reliable)
+    * Strength = talent _ related knowledge + skills
+    * Strength = ability to provide consistent, near perfect performance
+    * 34 Talent Themes tested by this test
+    * Psychometrically sound (valid and reliable)
 2. **Values in Action Classification of Strengths**
-  * developed by Peterson & Selingman
-  * Antithesis of DSM
-  * 24 Strengths grouped by 6 Virtues
-    1. Wisdom and knowledge:
-      * creativity, curiosity, judgment (critical thinking), Love and learning, perspective (wisdom),
-    2. Courage
-        * Bravery, Perseverance, Honesty, Zest (vitality, enthusiasm, vigor)
-    3. Humanity
-        * love, kindness, Social intelligence (emotional intelligence, personal intelligence)
+    * developed by Peterson & Selingman
+    * Antithesis of DSM
+    * 24 Strengths grouped by 6 Virtues
+      1. Wisdom and knowledge:
+        * creativity, curiosity, judgment (critical thinking), Love and learning, perspective (wisdom),
+      2. Courage
+          * Bravery, Perseverance, Honesty, Zest (vitality, enthusiasm, vigor)
+      3. Humanity
+          * love, kindness, Social intelligence (emotional intelligence, personal intelligence)
