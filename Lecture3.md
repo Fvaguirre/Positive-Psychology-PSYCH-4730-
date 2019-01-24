@@ -23,7 +23,7 @@
 
 * No Classifications Accepted World-Wide
 
-###3 Models in use by Many:
+### 3 Models in use by Many:
 1. **Gallup's Clifton StrengthsFinder**
   * Studying what's right with people
   * **Talents** naturally recurring patterns of thought, feeling or behavior that can be productively applied
