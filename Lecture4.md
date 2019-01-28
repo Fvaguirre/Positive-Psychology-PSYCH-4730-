@@ -64,3 +64,15 @@
 * Cultural values of researchers and practitioners should not influence their work (or should they in some cases?)
 * A core group of positive traits (or strengths) might exist across culture, be universal, but they may manifest themselves in different ways.
 * Happiness is discussed as a possible defining factor of people across nations
+
+#### Culturally Embedded Positive Psychology research and practice
+* Cultural values of researchers and practitioners influence their work
+* Positive traits may manifest in different ways for different purposes in different cultures
+* Definitions of strength may vary across cultural groups
+
+#### How To Make Sense of the Role of Culture in Positive psychology
+* Research across nations (cross-culturally)
+* Research between cultural groups within diverse nations (like the U.S.) (multi-culturally bc we have within-group heterogeneity)
+* Qualitative and quantitative research
+
+#### 
