@@ -60,7 +60,7 @@
     * Uniqueness and strengths of all cultures are recognized
 * Cultural pluralism and cultural relativism
 
-#### positive Psychology: Culture is Everywhere
+#### Positive Psychology: Culture is Everywhere
 * Cultural values of researchers and practitioners should not influence their work (or should they in some cases?)
 * A core group of positive traits (or strengths) might exist across culture, be universal, but they may manifest themselves in different ways.
 * Happiness is discussed as a possible defining factor of people across nations
