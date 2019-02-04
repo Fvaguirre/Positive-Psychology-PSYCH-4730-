@@ -9,7 +9,7 @@
 3. Faith (e.g. in the future or higher power)
 5. Believing in oneself
 6. Recognizing one's Strengths
-7. Having supportive others
+7. Having supportive others **RECIPRICOL**
 
 ### Resilience Resources
 * Thousand of programs developed based on protective Factors
@@ -111,3 +111,56 @@
   3. Maintaining high cognitive and physical functioning
 * Vaillant defines successful aging as:
   * Joy, love, and learning
+
+### Jimmy Carter
+* 39th US President 1977-1981
+* Promised truth in government
+* Set up the Carter Center in 1982
+* Advanced human right, eradicated disease, Habitat for Humanity
+
+## MacArthur Foundation study
+* Followed young adults
+* ...
+
+### Life Engagement
+* Social Support
+  * **Socioemotional** (liking and living another)
+  * **Instrumental support** (assistance from others)
+* Productivity in late adulthood
+* Social Support increases over time
+* Men vs women (wife vs friends and kids)
+* Protective factors against decline:
+ * age, marriage, increased skill mastery, sustained physical activity
+
+### Successful aging
+* The Adult Development Study Overview
+  * valliant identified specific lifestly factors of healthy Aging
+  1. Predictors of healthy aging:
+    * not smoking or quitting young
+    * coping adaptively
+    * mature defenses
+    * no alcohol abuse
+    * maintaining a healthy weight
+    * stable marriage
+    * exercise
+    * being educated
+  * Looked at happy-well participants and sad-sick participants
+  * Humor and altruism were the best predictors for either being sad-sick or happy-Well
+
+### Nun study
+* Study of 180 catholic nuns
+* Those that wrote happier lived longer
+
+### The Practice of resilience
+* Building resilience requires Practice
+* 10 Essential Resilience Capabilities:
+  1. Moral compass
+  2. Realistic optimism
+  3. following role ModelService
+  4. social support (recipricol)
+  5. emotional Flexibility (mental and emotional)
+  6. spiritual Practice
+  7. facing fears
+  8. physical Fitness
+  9. brain Fitness
+  10. sense of meaning, purpose and growth
