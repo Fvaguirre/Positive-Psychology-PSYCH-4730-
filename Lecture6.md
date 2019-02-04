@@ -102,7 +102,7 @@
 4. Generativity: nurturing and guiding of others; higher level of generativity related with greater well-being; WW2 vets who had high combat exposure and were more generative showed higher susequent psychological growth, maturity...
 5. Keeper of meaning
 6. Integrity
-**Mastery of these tasks is the object of adulthood**
+> **Mastery of these tasks is the object of adulthood**
 
 ### Successful Aging
 * 3 Components of Successful Aging
