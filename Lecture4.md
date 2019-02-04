@@ -75,4 +75,7 @@
 * Research between cultural groups within diverse nations (like the U.S.) (multi-culturally bc we have within-group heterogeneity)
 * Qualitative and quantitative research
 
-#### 
+* Chang's research on optimism across cultural groups (Caucasians and Asian Americans) as an example of the importance of the equivalence of constructs across cultural groups
+
+* Salience of cultural identity
+    * More salient cultural identity may provide stronger cultural influence

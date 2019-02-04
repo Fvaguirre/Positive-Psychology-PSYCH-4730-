@@ -103,3 +103,6 @@
     * problem-solving skills, self-regulations skills, easy temperament in infancy, positive self-perceptions; self efficacy; faith and a sense of meaning in life, a positive outlook on life, talents valued by self and society, general appealingness or attractiveness to others
   * In the family and close relationships:
     * Positive attachment relationships, close relationships to competent, prosocial, and supportive adults, authoritative parenting (high on warmth), positive family climate, organized home environment, postsecondary education of parents, parents with qualities listed as protective factors with the child
+
+* Dave Pelzer
+  * A "Child Called It"
