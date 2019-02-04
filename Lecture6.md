@@ -92,14 +92,22 @@
 * Seligman etal research: explanatory style (catastrophizing) predicted mortality risk (mediated by lifestyle choices)
 * high IQ and good health in childhood does not guarantee adult success and better mental health...catastrophizers more likely to make choices that negatively impact
 
-### Valiant Results
+### Valliant Results
 * Women in Terman sample identified close female friendships as most intimate relationship; men in Harvard study identified wives
 
 ### 6 Tasks of Adult Development
 1. identity
 2. Intimacy
-3. Career Consolidation
-4. Generativity
+3. Career Consolidation: Engaged, content, compensated, competence, commitment; adjust to layoffs, lose of income, lack of new job opportunities
+4. Generativity: nurturing and guiding of others; higher level of generativity related with greater well-being; WW2 vets who had high combat exposure and were more generative showed higher susequent psychological growth, maturity...
 5. Keeper of meaning
 6. Integrity
 **Mastery of these tasks is the object of adulthood**
+
+### Successful Aging
+* 3 Components of Successful Aging
+  1. Avoiding disease
+  2. Engagement with life
+  3. Maintaining high cognitive and physical functioning
+* Vaillant defines successful aging as:
+  * Joy, love, and learning
