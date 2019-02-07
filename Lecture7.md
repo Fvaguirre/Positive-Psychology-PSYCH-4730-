@@ -22,8 +22,8 @@
 * Often used interchangeably with happiness
 * Deiner: it is a combination of positive affect and general life satisfaction
 
-> Mini experiment: What are you thankful for?
-> Mini Experiment: PANAS before and after watching a cartoon
+> Mini experiment: What are you thankful for?  
+> Mini Experiment: PANAS before and after watching a cartoon  
 
 ### Historical Study of Emotions
 * More focus on negative Emotions
@@ -33,7 +33,7 @@
 * Focus has gotten more balanced recently
 
 * Development of the **PANAS** by Watson and Clark
-* Measures both positve and negative Affect
+* Measures both positive and negative Affect
 * positive and negative affect are not polar opposites, they are independent
 
 ### Positive Affect
@@ -53,3 +53,21 @@
   * be flexible in their thinking
   * better problem-solve
   * more willing to exhibit self-control
+
+* Examples of Research
+  * coins in pay phones... help others
+  * candies and physicians
+    * superior reasoning and decision making
+
+### Barbara Fredrickson and the Influence of positive emotion
+* Positive emotions broaden intellectual, physical and social resources
+* When in a positive mood, people like us better, and friendship, love, and coalitions are more likely to be established
+* And, our mental set is expansive, tolerant, and creative; open to new ideas and new experience
+
+### Broaden and Build Theory
+* Positive emotions
+  * Reduce arousal
+  * Broaden visual focus, thoughts and behavior
+* Broadening
+  * Thinking becomes more creative, inclusive, flexible, and integrative
+* By broadening attention and action, positive emotions can contribute to our creativity, physical health, relationships, and ability to acquire new information, as well as our psychological resilience
